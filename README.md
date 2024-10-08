@@ -3,5 +3,6 @@ projetada de maneira a armazenar as informações de forma descritiva e
 detalhada. Optamos por chaves primárias (sk\_) que garantem a
 unicidade dos registros.
 
-[PROJETO FÍSICO_PSAN - Copia.pdf](https://github.com/user-attachments/files/17300052/PROJETO.FISICO_PSAN.-.Copia.pdf)
+![MODELO_FÍSICO_PROJETO_PSAN](https://github.com/user-attachments/assets/550b7f81-8314-4523-a050-37c30104dfc6)
+
 
