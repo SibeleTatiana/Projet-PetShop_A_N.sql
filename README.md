@@ -1,4 +1,4 @@
-Este projeto foi elabora para atender as necessidades dos executivos de uma empresa de pet shop.
+Este projeto foi elaborado para atender as necessidades dos executivos de uma empresa de pet shop.
 
 Cada tabela dimensional foi
 projetada de maneira a armazenar as informações de forma descritiva e
